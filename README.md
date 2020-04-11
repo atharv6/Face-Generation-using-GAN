@@ -1,4 +1,4 @@
-Face Generation Using Deep Convoutional Generative Adversarial Netwroks (DCGAN)
+### Face Generation Using Deep Convoutional Generative Adversarial Netwroks (DCGAN)
 
 ## Overview
 
