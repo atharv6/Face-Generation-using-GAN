@@ -1,1 +1,1 @@
-# TV-Script-Generation-using-GAN
+Face Generation Using Deep Convoutional Generative Adversarial Netwroks (DCGAN)
